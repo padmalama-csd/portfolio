@@ -475,10 +475,6 @@ nav {
   align-items:center;
   justify-items: center;
 }
-.section_container journey_container{
-  display:grid;
-  align-items:center;
-}
 .journey__grid div {
   display: flex;
   gap: 1rem;
