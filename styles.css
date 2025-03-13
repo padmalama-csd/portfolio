@@ -477,6 +477,7 @@ journey__grid {
 .journey__grid > div {
   display: grid;
   gap: 1rem;
+  align-items: center;
 }
 
 .journey_grid_header {
