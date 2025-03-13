@@ -490,7 +490,7 @@ journey__grid {
 
 .journey__card {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 1rem;
 }
 
