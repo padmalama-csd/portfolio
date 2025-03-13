@@ -575,7 +575,8 @@ nav {
   background-color: var( --primary-color);
   animation: progress-fill 2s forwards;
 }
-
+.contact{
+  
 @keyframes progress-fill {
   0% {
     width: 0;
