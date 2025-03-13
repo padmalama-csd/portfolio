@@ -473,10 +473,9 @@ nav {
   display: grid;
   gap: 2rem;
   align-items:center;
-  justify-items: center;
 }
 .journey__grid div {
-  display: flex;
+  display: grid;
   gap: 1rem;
   align-items: center;
 }
