@@ -472,6 +472,8 @@ nav {
   margin-top: 4rem;
   display: grid;
   gap: 2rem;
+  align-items:center;
+  justify-items: center;
 }
 .section_container journey_container{
   display:grid;
