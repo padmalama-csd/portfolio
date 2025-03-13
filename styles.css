@@ -474,7 +474,7 @@ nav {
   gap: 2rem;
 }
 
-.journey__grid > div {
+.journey__grid div {
   display: grid;
   gap: 1rem;
   align-items: center;
