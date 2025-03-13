@@ -474,7 +474,7 @@ nav {
   gap: 2rem;
 }
 .section_container journey_container{
-  display:flex;
+  display:grid;
   align-items:center;
 }
 .journey__grid div {
